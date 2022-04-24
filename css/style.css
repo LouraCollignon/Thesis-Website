@@ -1,0 +1,45 @@
+/*CSS style sheet for the thesis project experiment website*/
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+#buttons {
+  display: flex;
+}
+#h1 {
+  display: flex;
+  color: black;
+  text-align: left;
+}
+#h3 {
+  display: flex;
+  color: black;
+  font-weight: bold;
+  text-align: left;
+  width: 700px;
+}
+p {
+  display: flex;
+  color: black;
+  font-weight: normal;
+  font-size: 12pt;
+  text-align: left;
+  width: 700px;
+}
+ul {
+  list-style-type: square;
+  text-align: left;
+  width: 700px;
+}
+.forms {
+  display: flex;
+  width: 700px;
+  text-align: left;
+}
+img:hover {
+  border: 1px solid black;
+  box-shadow: 0 0 3px #333;
+}

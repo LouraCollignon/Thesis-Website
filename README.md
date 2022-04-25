@@ -16,4 +16,4 @@ Horst, J.S., Hout, M.C. The Novel Object and Unusual Name (NOUN) Database: A col
 
 ### Making things work
 
-While the code associated with the experiment directly was written by me. The files to make the experiment run on the Google App Engine were instead copied from guides about the Google App Engine and adjusted to work for my webiste. Some changes were copied from work my supervisor had shared and I've given credit where that applies.
+While the code associated with the experiment directly was written by me. The files to make the experiment run on the Google App Engine were instead copied from guides about the Google App Engine and adjusted to work for my website. Some changes were copied from work my supervisor had shared and I've given credit where that applies.
